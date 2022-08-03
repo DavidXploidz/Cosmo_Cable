@@ -1,0 +1,66 @@
+{
+    "estados": [
+      {
+        "id" : 1,
+        "nombre": "Durango",
+        "sucursales": [
+            "Canatlán",
+            "Guadalupe Victoria", 
+            "Nuevo Ideal",
+            "Villa Unión",
+            "Rodeo",
+            "Cuencame",
+            "Nombre De Dios",
+            "Fco. I Madero",
+            "El Salto",
+            "Santiago Papasquiaro",
+            "Vicente Guerrero"
+
+        ]
+      },
+      {
+        "id" : 2,
+        "nombre": "Chihuahua",
+        "sucursales": [
+            "Aldama",
+            "Guachochi", 
+            "Madera",
+            "San Juanito",
+            "Guerrero",
+            "Jimenez",
+            "Ojinaga",
+            "Santa Bárbara"
+        ]
+      },
+      {
+        "id" : 3,
+        "nombre": "Zacatecas",
+        "sucursales": [
+            "Chalchihuites"
+        ]
+      }
+    ],
+    "sliders": [
+        {
+            "id": 1,
+            "titulo" : "Cosmo móvil",
+            "imagen" : "https://res.cloudinary.com/dypooembo/image/upload/v1659485284/pexels-sasha-kim-8420891_cqd4ni.webp",
+            "parrafo1": "Cambiate a ",
+            "parrafo2" : "Un servicio de telefonia celular",
+            "parrafo3": "con cualquier servicio que contrates",
+            "precio": "por $250"
+        },
+        {
+            "id": 2,
+            "titulo" : "Tu puerta",
+            "parrafo2": "al entretenimiento",
+            "imagen" : "https://res.cloudinary.com/dypooembo/image/upload/v1659536282/pexels-tamuka-xulu-12982981_lmmyet.webp"
+        },
+        {
+            "id": 3,
+            "titulo": "Cosmo plus",
+            "imagen": "https://res.cloudinary.com/dypooembo/image/upload/v1659536293/pexels-johannes-plenio-3262249_usmkrj.webp"
+        }
+    ]
+
+}
